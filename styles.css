@@ -1,0 +1,55 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkslategray;
+    padding: 15px;
+    font-size: 18px;
+    font-family: 'Tahona';
+    font-weight: 400;
+    color: #ffffff;
+}
+body{
+    margin: 0px;
+    background-color:gainsboro;
+    
+    
+}
+.newStuff{
+    display: flex;
+    justify-content: space-between;
+    color:gray;
+    margin-top: 30px;
+    
+   padding:15px;
+   background-color: lightgoldenrodyellow;
+   border-radius: 20px;
+   
+   margin-left: 650px;
+   margin-right: 780px;
+  
+   
+   
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium';
+    
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+.origami {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 30px;
+    width:310px;
+    font-family:'Tahona';
+    
+}
